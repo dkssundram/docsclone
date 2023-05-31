@@ -24,9 +24,12 @@ npm start
 <br>
 Open a web browser and navigate to http://localhost:3000 to view the application.
 <br>
+
 **Technologies Used**<br>
+
 This project is built using React, a popular JavaScript library for building user interfaces. It leverages the following technologies:
 <br>
+
 **React**: A JavaScript library for building user interfaces, providing a component-based architecture and efficient rendering.<br>
 **HTML**: The markup language used to structure the frontend.<br>
 **CSS**: The styling language used to define the visual appearance of the application.<br>
@@ -34,6 +37,7 @@ This project is built using React, a popular JavaScript library for building use
 **Create React App**: A tool for quickly setting up React projects with a predefined folder structure and build configuration.<br>
 
 **Folder Structure**<br>
+
 The project follows a standard folder structure commonly used in React applications:<br>
 
 public: Contains the public assets, such as the index.html file and any other static files.<br>
